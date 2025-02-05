@@ -9,11 +9,11 @@ This repository contains a basic **Spring Boot API** running in a **Docker** con
 - Lightweight and fast.
 
 ## 🔧 Tech Stack
-- Java 17
-- Spring Boot 3
-- Docker
-- Maven
-- Docker Compose
+- Java 17.
+- Spring Boot 3.
+- Docker.
+- Maven.
+- Docker Compose.
 
 ## 🚀 Getting Started
 
